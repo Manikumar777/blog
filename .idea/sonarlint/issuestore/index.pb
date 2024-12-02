@@ -21,3 +21,19 @@ Q
 !config/templates/post_detail.html,6\8\6828b5263f1f93b77e9b05269bbc62a7c44f9921
 =
 blog/tests.py,a\d\ad2fa097158bb799ebb227eaa60d28b415e3f7c6
+N
+config/templates/post_new.html,8\c\8c79756c25af8d7ecab241f2bb84a0198cb19ab9
+O
+config/templates/post_edit.html,e\a\ea3b68764e8926c1c7f6e9c5963aecfe2634c4d8
+Q
+!config/templates/post_delete.html,6\d\6db7d0bf54d80d292014c1ba0534919987a6f1cc
+9
+	manage.py,3\1\3156ad13e4d695cd526bbb7b031016ecba842270
+X
+(config/templates/registration/login.html,7\4\74a49dc0b3e8b95dbc75b666f35763b6b9931e73
+@
+accounts/urls.py,6\0\605dfdd3d50bf83b921d6fff90cbd98052a71d27
+A
+accounts/views.py,b\a\ba7590f6f358542018b74d55cb2e357917bab56c
+Y
+)config/templates/registration/signup.html,7\c\7cc39e0c6f65b349925651ea70d6d428b3d6a6b9
